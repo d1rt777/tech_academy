@@ -2,7 +2,7 @@
 
 .hero {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-              url("https://source.unsplash.com/1600x900/?technology,students") center/cover no-repeat;
+              url("../img/image3.png") center/cover no-repeat;
   height: 90vh;
 }
 
@@ -21,4 +21,8 @@ footer {
 .card-img-top{
     min-height: 278px;
     max-height: 278px;
+}
+
+footer{
+    background-color: black;
 }
