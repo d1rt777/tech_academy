@@ -1,0 +1,14 @@
+    .course-card {
+            transition: transform 0.3s, box-shadow 0.3s;
+            height: 100%;
+            border: none !important;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+        .course-image {
+            height: 180px;
+            object-fit: cover;
+            width: 100%;
+        }
+        .btn-outline-primary {
+            border-width: 2px;
+        }
